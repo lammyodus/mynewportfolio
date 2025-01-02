@@ -1,0 +1,40 @@
+body{
+  background-color:violet;  
+  font-family: cursive;
+  text-align: center;
+  
+}
+h3{
+    
+    display: inline
+}
+.top-container{
+
+  
+  width: 100%;
+  /* display: inline; */
+  /* position: absolute; */
+  display: inline-flex;
+  justify-content: space-between;
+}
+.Middle-container2{
+  left: 80px;
+}
+  .Home{
+    padding-left: 10px;
+    padding-top: 20px;
+}
+  .Hire-me{
+    padding-left: 50px;
+    background-color: tomato;
+  }
+.Designs{
+  padding-left: 40px;
+}
+.Skills{
+  padding-left: 70px;
+}
+.middle-container{
+  padding-top: 90px;
+  /* padding-left: 30px; */
+}
